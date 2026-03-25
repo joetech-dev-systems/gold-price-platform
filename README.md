@@ -1,6 +1,7 @@
 # Gold Price Platform 💰  
 ### Not just prices… a system that explains the market.
 
+## Preview 👀
 ![IMG_2845](https://github.com/user-attachments/assets/cd80d1e1-1681-49ca-b87c-b799f1007895)
 
 ## 🇺🇸 English
