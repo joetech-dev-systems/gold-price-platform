@@ -1,7 +1,6 @@
 # Gold Price Platform 💰  
 ### Not just prices… a system that explains the market.
 
-![Uploading Screenshot 2026-03-24 at 9.57.56 PM.png…]()
 
 ## 🇺🇸 English
 A real-time gold price platform designed to simulate the real market and provide clear, actionable insights.
