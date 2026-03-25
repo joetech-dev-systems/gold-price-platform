@@ -1,7 +1,7 @@
 # Gold Price Platform 💰  
 ### Not just prices… a system that explains the market.
 
-![IMG_2845](https://github.com/user-attachments/assets/cd28e35a-eb9e-4811-adf2-64446ce64112)
+![IMG_2845](https://github.com/user-attachments/assets/cd80d1e1-1681-49ca-b87c-b799f1007895)
 
 ## 🇺🇸 English
 A real-time gold price platform designed to simulate the real market and provide clear, actionable insights.
