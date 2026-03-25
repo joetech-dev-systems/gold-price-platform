@@ -1,54 +1,153 @@
-# Gold Price Platform 💰  
-### Not just prices… a system that explains the market.
+# Gold Price System 💰  
+### A real-time system that simulates how gold pricing works.
 
-## Preview 👀
-![IMG_2845](https://github.com/user-attachments/assets/cd80d1e1-1681-49ca-b87c-b799f1007895)
+---
+
+## 🚀 Live Demo
+👉 https://gold-edward-dashboard.pages.dev/
+
+---
+
+## 👀 Preview
+<img width="1901" height="1040" alt="Screenshot 2026-03-25 at 2 14 45 PM" src="https://github.com/user-attachments/assets/055a19ea-aeb5-409d-8fee-c74fabf97e89" />
+
+<img width="1902" height="1039" alt="Screenshot 2026-03-25 at 2 18 39 PM" src="https://github.com/user-attachments/assets/3df6396e-460a-4b5b-ba12-4fac20ba32ad" />
+
+<img width="1903" height="1041" alt="Screenshot 2026-03-25 at 2 18 57 PM" src="https://github.com/user-attachments/assets/21877766-3a9f-47d7-860a-ceadce6cc5e8" />
+
+<img width="1903" height="1044" alt="Screenshot 2026-03-25 at 2 19 15 PM" src="https://github.com/user-attachments/assets/2b40ab17-b089-42d9-bd0e-bd01447bc093" />
+
+---
 
 ## 🇺🇸 English
-A real-time gold price platform designed to simulate the real market and provide clear, actionable insights.
 
-This project is not just a price display website.  
-It is a system that calculates, processes, and presents gold prices in a structured and understandable way.
+## 🧠 About The System
 
-### Features
+This project is not just a website that displays gold prices.
+
+It is a real-time system designed to simulate how gold pricing works in real markets.
+
+The system combines:
+- Global gold price (ounce)
+- USD exchange rate
+- Local market logic (Egyptian market)
+- Custom pricing calculations
+
+The goal is to transform raw market data into clear and understandable pricing.
+
+---
+
+## ⚙️ Core Features
+
 - Real-time gold price updates  
-- Simple and clean user interface  
-- AI-based analysis logic  
-- Buy/Sell price calculation  
-- Integration-ready with external systems (Telegram bot, APIs)
+- Egyptian market pricing simulation  
+- Buy & Sell price calculation  
+- Ounce → Gram conversion  
+- USD rate integration  
+- Clean and interactive UI  
 
-### Concept
-The goal is to move beyond raw numbers and transform data into meaningful insights.  
-Instead of just showing prices, the system helps users understand the market behavior.
+---
 
-### Tech Stack
-- HTML, CSS, JavaScript  
-- Python (logic & analysis)
+## 🤖 AI & Analysis
+
+The system includes a smart analysis layer that:
+
+- Interprets market behavior  
+- Generates simple insights  
+- Provides direction hints (not just raw data)
+
+---
+
+## 🔗 System Integration
+
+- Connected to live data sources  
+- Designed to work with Telegram bot  
+- Scalable architecture for future expansion  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML / CSS / JavaScript  
+- API Integration  
+- Custom calculation logic  
+- Automation-ready system  
+
+---
+
+## 🎯 Goal
+
+To build a real system that explains how gold pricing works,  
+not just display numbers.
 
 ---
 
 ## 🇪🇬 العربية
-منصة لعرض أسعار الذهب بشكل لحظي مع نظام ذكي لتحليل البيانات وتبسيط فهم السوق.
 
-المشروع مش مجرد موقع بيعرض الأسعار،  
-لكنه نظام بيحسب ويحلل ويعرض المعلومات بشكل واضح وسهل.
+## 🧠 عن النظام
 
-### المميزات
+المشروع ده مش مجرد موقع بيعرض أسعار الذهب،
+
+ده نظام متكامل مصمم علشان يحاكي طريقة تسعير الذهب في السوق الحقيقي.
+
+النظام بيعتمد على دمج:
+- السعر العالمي للأونصة  
+- سعر الدولار  
+- منطق السوق المصري  
+- معادلات حساب مخصصة  
+
+والهدف هو تحويل البيانات إلى أسعار واضحة ومفهومة.
+
+---
+
+## ⚙️ المميزات
+
 - تحديث لحظي للأسعار  
-- واجهة بسيطة وسهلة الاستخدام  
-- تحليل ذكي لحركة السوق  
-- حساب أسعار البيع والشراء  
-- قابل للربط مع أنظمة أخرى (مثل البوت)
+- محاكاة السوق المصري  
+- حساب سعر البيع والشراء  
+- تحويل الأونصة إلى جرام  
+- ربط سعر الدولار  
+- واجهة سهلة وتفاعلية  
 
-### الهدف
-تحويل البيانات المعقدة إلى معلومات مفهومة تساعد المستخدم على متابعة السوق بشكل أفضل.
+---
 
-### التقنيات المستخدمة
+## 🤖 التحليل الذكي
+
+النظام بيحتوي على طبقة تحليل:
+
+- لفهم حركة السوق  
+- تقديم إشارات بسيطة  
+- مساعدة المستخدم على قراءة البيانات  
+
+---
+
+## 🔗 التكامل
+
+- متصل بمصادر بيانات  
+- قابل للربط مع بوت تليجرام  
+- قابل للتطوير والتوسع  
+
+---
+
+## 🛠️ التقنيات المستخدمة
+
 - HTML / CSS / JavaScript  
-- Python
+- APIs  
+- منطق حسابي مخصص  
+- نظام قابل للأتمتة  
+
+---
+
+## 🎯 الهدف
+
+بناء نظام حقيقي يشرح طريقة تسعير الذهب،  
+مش مجرد عرض أرقام.
 
 ---
 
 ## 👤 Author
+
 Youssef Tamer  
-Founder of Joe Tech
+Founder of Joe Tech  
+
+Building real systems.
